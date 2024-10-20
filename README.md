@@ -30,6 +30,7 @@ conda create -n Hackathon python=3.10 -y
 
 ```bash
 conda activate Hackathon
+```
 
 ### STEP 02- install the requirements
 
