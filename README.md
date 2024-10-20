@@ -34,19 +34,18 @@ conda activate Hackathon
 
 ### STEP 02- install the requirements
 
-## For Windows
+#### For Windows
 ```bash
 pip install -r requirements.txt
 ```
 
-## For MAC-OS
+#### For MAC-OS
 ```bash
 pip3 install -r requirements.txt
 ```
 
-
+#### Finally run the following command
 ```bash
-# Finally run the following command
 python3 app.py
 ```
 
