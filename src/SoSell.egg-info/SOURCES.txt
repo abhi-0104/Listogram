@@ -6,9 +6,11 @@ src/SoSell.egg-info/SOURCES.txt
 src/SoSell.egg-info/dependency_links.txt
 src/SoSell.egg-info/top_level.txt
 src/SoSell/components/__init__.py
+src/SoSell/components/data_handeling.py
 src/SoSell/config/__init__.py
 src/SoSell/config/configuration.py
 src/SoSell/constants/__init__.py
 src/SoSell/entity/__init__.py
 src/SoSell/pipeline/__init__.py
 src/SoSell/utils/__init__.py
+src/SoSell/utils/common.py
