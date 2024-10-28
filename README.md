@@ -2,19 +2,10 @@
 
 # Listogram (___Under development___)
 
+## Description
 
-## Workflows
+Listogram is a streamlined solution that automates the process of transforming Instagram posts into comprehensive Amazon product listings. The system allows sellers to provide a link to their latest post, extract relevant data (text, images, videos), generate detailed product descriptions using LLama3 70B and Groq, and publish the listing via Amazon’s API.
 
-1. Update config.yaml
-2. Update secrets.yaml [Optional]
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline 
-8. Update the main.py
-9. Update the dvc.yaml
-10. app.py
 
 # How to run?
 ### STEPS:
